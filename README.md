@@ -1,7 +1,9 @@
 # Mechanistic Interpretability: Induction Head Micro‑Replication
 
 **Author:** Benjamin Hadad
+
 **Date:** 2025‑08‑26
+
 **Repo goal:** a small, clean replication of classic induction‑head behavior on a tiny open model, with head ablations, activation patching, and a simple logit‑lens snapshot. Everything is reproducible from a single notebook.
 
 ## TL;DR
